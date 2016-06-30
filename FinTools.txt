@@ -1,0 +1,24 @@
+[ Brokerage ]
+- https://www.tdameritrade.com/
+- https://www.interactivebrokers.com/
+- https://www.tradeking.com/
+
+
+[ Tools ]
+- http://finviz.com/
+- http://www.investopedia.com/simulator/
+- http://stocktwits.com/
+- https://www.reddit.com/r/wallstreetbets/
+- http://www.barchart.com/
+
+
+Tip #1: Trade on the Investopedia Simulator before using actual money.
+Tip #2: Don't get emotional.
+Tip #3: Learn how to setup a stop loss.
+Tip #4: Learn about a Wash Sale (VERY IMPORTANT FOR YOUR TAXES)
+Tip #5: Learn about Day Trading Rules (Ex: Having less than $25,000 in your account.)
+Tip #6: Learn types of charts
+Tip #7: Learn about volatility - Esp. during After Hours & Pre-Market
+Tip #8: Learn Math, Stats, Excel
+
+
